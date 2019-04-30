@@ -13,7 +13,7 @@ public class day1 {
 	}
 	
 	
-	@Test(groups= {"Smoke"})
+	@Test
 	public void Demo() {
 		System.out.println("Hello");
 	}
@@ -24,7 +24,7 @@ public class day1 {
 	
 	@Test
 	public void demo2() {
-		System.out.println("Bye...");
+		System.out.println("Bye...gitstuff");
 		Assert.assertTrue(false);
 	}
 
