@@ -14,5 +14,9 @@ public class day2 {
 	public void prerequisite() {
 		System.out.println("I will execute first");
 	}
+	@Test
+	public void prerequisites() {
+		System.out.println("I will execute");
+	}
 	
 }
